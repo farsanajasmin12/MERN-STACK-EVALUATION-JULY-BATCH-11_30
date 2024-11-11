@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    outline: 0; 
+
+
+}
+.general{
+display: flex;
+gap: 50px;
+padding: 5px;
+
+}
+.general {
+    margin-left: 85px;
+    gap: 23px;
+    margin-top:3px;
+
+}
+
+.All {
+    display: flex;
+    background: rgb(5, 5, 5);
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    margin-left: 10px;
+    
+}
+
+.Romentic {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+}
+
+.Gaming {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Music {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Drama {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Thriller {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Live {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Mixes {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Show {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Animated {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Science {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Watched {
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.Asian{
+    display: flex;
+    background: rgb(223, 219, 219);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+}

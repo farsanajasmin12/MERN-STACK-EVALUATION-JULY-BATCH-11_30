@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    outline: 0; 
+
+
+}
+
+.sidebar{
+    height:700px;
+    width:80px;
+    background:rgb(249, 247, 247);
+    position: fixed;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    padding-left:10px ;
+  
+  }
+  .home{
+    width:20px ;
+    font-size:12px ;
+    margin-top: 10px;
+    padding-left:5px ;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+  
+  }
+  
+  .explore{
+    width:20px;
+    font-size:12px;
+    margin-top: 20px;
+    padding-left:5px ;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .subscriptions{
+   width:20px;
+   font-size:12px;
+   margin-top: 20px;
+   padding-left:5px ;
+   align-items: center;
+   font-family: Arial, Helvetica, sans-serif;
+  }
+  .sub{
+    margin-left: -14px;
+  }
+  .library{
+    width:20px;
+   font-size:12px ;
+   margin-top: 20px;
+   padding-left:5px ;
+   align-items: center;
+   justify-content: center;
+   font-family: Arial, Helvetica, sans-serif;
+  }
+  .you{
+    margin-left:5px;
+  }
+   .music{
+    width:20px;
+   font-size:12px ;
+   margin-top: 35px;
+   padding-left:5px ;
+   align-items: center;
+   font-family: Arial, Helvetica, sans-serif;
+   }
+  
+  
